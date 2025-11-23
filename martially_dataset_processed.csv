@@ -1,0 +1,501 @@
+experience,time_per_week,budget_range,format,location,recommended_style,Krav Maga,BJJ,Kung Fu,Taekwondo,Boxing,Wrestling,Muay Thai,MMA,Judo,Karate,goal_Weight Loss,goal_Mobility,goal_Flexibility,goal_Tournaments,goal_Competition,goal_Fitness,goal_Building Confidence,goal_Learning Traditional Arts,goal_Stress Relief,goal_Self-defense,goal_Mental Discipline
+Advanced,3-5 hours,<1000,Hybrid,Mumbai,Taekwondo,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0
+Beginner,1-2 hours,1000-3000,Hybrid,Chennai,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Intermediate,3-5 hours,1000-3000,Offline,Mumbai,BJJ,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,0
+Intermediate,1-2 hours,6000+,Hybrid,Mumbai,Kung Fu,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Beginner,3-5 hours,3000-6000,Online,Delhi,Krav Maga,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0
+Intermediate,6-10 hours,1000-3000,Hybrid,Bangalore,Boxing,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,10+ hours,3000-6000,Hybrid,Delhi,Judo,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Intermediate,10+ hours,3000-6000,Online,Delhi,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,1000-3000,Hybrid,Bangalore,Krav Maga,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,10+ hours,<1000,Online,Mumbai,Boxing,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1
+Advanced,10+ hours,3000-6000,Hybrid,Mumbai,Muay Thai,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1
+Advanced,10+ hours,<1000,Hybrid,Bangalore,Boxing,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0
+Advanced,3-5 hours,<1000,Hybrid,Bangalore,Wrestling,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1
+Beginner,3-5 hours,<1000,Online,Chennai,Krav Maga,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Advanced,6-10 hours,6000+,Online,Delhi,Karate,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0
+Intermediate,3-5 hours,<1000,Offline,Mumbai,Wrestling,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,<1000,Online,Mumbai,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,10+ hours,1000-3000,Hybrid,Delhi,Wrestling,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,10+ hours,3000-6000,Offline,Chennai,Taekwondo,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,6-10 hours,<1000,Online,Delhi,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,10+ hours,1000-3000,Online,Chennai,BJJ,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,10+ hours,6000+,Offline,Delhi,Wrestling,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Beginner,6-10 hours,6000+,Offline,Chennai,Judo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Beginner,1-2 hours,3000-6000,Online,Mumbai,Karate,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,1-2 hours,1000-3000,Offline,Mumbai,Boxing,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Advanced,6-10 hours,1000-3000,Offline,Chennai,Muay Thai,0,0,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1,0,0
+Advanced,10+ hours,<1000,Online,Delhi,Boxing,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,10+ hours,3000-6000,Hybrid,Mumbai,Karate,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+Advanced,3-5 hours,3000-6000,Offline,Delhi,Boxing,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Beginner,10+ hours,3000-6000,Online,Mumbai,Boxing,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+Beginner,1-2 hours,<1000,Hybrid,Delhi,Krav Maga,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0
+Intermediate,6-10 hours,3000-6000,Online,Bangalore,Judo,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,3-5 hours,1000-3000,Online,Delhi,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Beginner,3-5 hours,<1000,Offline,Mumbai,Wrestling,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+Beginner,3-5 hours,1000-3000,Online,Delhi,Boxing,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,<1000,Online,Bangalore,Taekwondo,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+Advanced,6-10 hours,6000+,Hybrid,Mumbai,Wrestling,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0
+Advanced,1-2 hours,1000-3000,Offline,Chennai,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,6-10 hours,6000+,Offline,Chennai,MMA,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0
+Advanced,3-5 hours,3000-6000,Offline,Mumbai,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Intermediate,10+ hours,1000-3000,Hybrid,Chennai,Judo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+Advanced,6-10 hours,1000-3000,Online,Delhi,Krav Maga,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0
+Beginner,3-5 hours,6000+,Offline,Chennai,Boxing,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+Beginner,10+ hours,<1000,Hybrid,Delhi,BJJ,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,10+ hours,6000+,Online,Chennai,Boxing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+Intermediate,6-10 hours,6000+,Online,Bangalore,Boxing,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0
+Intermediate,3-5 hours,1000-3000,Offline,Delhi,Muay Thai,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,3-5 hours,6000+,Offline,Mumbai,Karate,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+Intermediate,10+ hours,1000-3000,Offline,Delhi,Karate,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Intermediate,3-5 hours,6000+,Online,Mumbai,Judo,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+Advanced,3-5 hours,<1000,Offline,Chennai,Karate,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Beginner,10+ hours,3000-6000,Online,Chennai,Kung Fu,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Advanced,1-2 hours,<1000,Online,Delhi,Muay Thai,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+Advanced,1-2 hours,1000-3000,Offline,Bangalore,Karate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,1-2 hours,3000-6000,Hybrid,Chennai,Taekwondo,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+Advanced,6-10 hours,<1000,Hybrid,Mumbai,Boxing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Advanced,10+ hours,<1000,Offline,Bangalore,Karate,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Advanced,10+ hours,6000+,Offline,Bangalore,Judo,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,10+ hours,6000+,Offline,Mumbai,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Intermediate,6-10 hours,3000-6000,Offline,Bangalore,Boxing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,10+ hours,1000-3000,Hybrid,Chennai,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Bangalore,Karate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Advanced,6-10 hours,3000-6000,Online,Mumbai,Muay Thai,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0
+Intermediate,10+ hours,3000-6000,Hybrid,Bangalore,BJJ,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0
+Beginner,1-2 hours,1000-3000,Offline,Mumbai,Muay Thai,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,6-10 hours,6000+,Offline,Chennai,Boxing,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,1-2 hours,6000+,Offline,Mumbai,Muay Thai,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0
+Beginner,1-2 hours,6000+,Hybrid,Delhi,Taekwondo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Delhi,Boxing,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0
+Advanced,1-2 hours,1000-3000,Online,Chennai,Wrestling,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,6-10 hours,6000+,Online,Delhi,MMA,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+Advanced,6-10 hours,1000-3000,Online,Mumbai,Boxing,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1
+Intermediate,6-10 hours,6000+,Offline,Chennai,Karate,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,3-5 hours,<1000,Hybrid,Bangalore,Krav Maga,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,1,0
+Beginner,10+ hours,6000+,Online,Chennai,MMA,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Intermediate,10+ hours,6000+,Offline,Chennai,Kung Fu,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Intermediate,10+ hours,<1000,Hybrid,Chennai,Karate,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Beginner,10+ hours,<1000,Online,Bangalore,Judo,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Beginner,3-5 hours,1000-3000,Offline,Mumbai,Karate,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,3-5 hours,6000+,Hybrid,Bangalore,Karate,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Intermediate,3-5 hours,1000-3000,Online,Bangalore,Wrestling,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+Intermediate,10+ hours,1000-3000,Offline,Chennai,Karate,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,0,0,0
+Intermediate,3-5 hours,6000+,Online,Chennai,Wrestling,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Intermediate,3-5 hours,3000-6000,Online,Chennai,BJJ,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1
+Advanced,10+ hours,3000-6000,Offline,Chennai,BJJ,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0
+Intermediate,1-2 hours,<1000,Online,Bangalore,Kung Fu,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0
+Advanced,10+ hours,1000-3000,Hybrid,Bangalore,Muay Thai,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,3-5 hours,1000-3000,Hybrid,Chennai,Karate,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+Beginner,3-5 hours,6000+,Hybrid,Delhi,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+Intermediate,6-10 hours,1000-3000,Online,Chennai,Boxing,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+Advanced,10+ hours,6000+,Online,Delhi,Taekwondo,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0
+Advanced,10+ hours,3000-6000,Online,Mumbai,Karate,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Delhi,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Advanced,3-5 hours,<1000,Offline,Bangalore,Boxing,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Intermediate,6-10 hours,1000-3000,Offline,Chennai,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,3-5 hours,6000+,Hybrid,Bangalore,BJJ,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,6-10 hours,6000+,Hybrid,Bangalore,BJJ,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1
+Advanced,3-5 hours,<1000,Hybrid,Chennai,Boxing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,6-10 hours,6000+,Online,Mumbai,Judo,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,10+ hours,1000-3000,Offline,Mumbai,Karate,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Advanced,10+ hours,1000-3000,Offline,Mumbai,Karate,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,1
+Advanced,10+ hours,<1000,Hybrid,Delhi,Krav Maga,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Beginner,3-5 hours,1000-3000,Online,Bangalore,Judo,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1
+Advanced,6-10 hours,1000-3000,Online,Mumbai,Muay Thai,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,6-10 hours,<1000,Online,Chennai,Boxing,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,3-5 hours,<1000,Hybrid,Bangalore,Taekwondo,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+Advanced,1-2 hours,6000+,Hybrid,Chennai,Karate,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Beginner,6-10 hours,3000-6000,Offline,Bangalore,Wrestling,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,3-5 hours,6000+,Offline,Chennai,Karate,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+Intermediate,3-5 hours,6000+,Online,Mumbai,BJJ,0,0,1,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0
+Beginner,6-10 hours,<1000,Offline,Bangalore,Karate,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,3-5 hours,1000-3000,Hybrid,Chennai,Muay Thai,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0
+Beginner,3-5 hours,6000+,Hybrid,Mumbai,Kung Fu,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,1-2 hours,1000-3000,Online,Chennai,BJJ,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0
+Beginner,6-10 hours,1000-3000,Offline,Bangalore,Muay Thai,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Intermediate,1-2 hours,<1000,Offline,Chennai,Wrestling,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,6-10 hours,6000+,Online,Bangalore,Taekwondo,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,3-5 hours,3000-6000,Online,Delhi,Boxing,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+Intermediate,3-5 hours,6000+,Hybrid,Delhi,Karate,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+Beginner,1-2 hours,3000-6000,Hybrid,Chennai,Judo,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Intermediate,3-5 hours,6000+,Hybrid,Bangalore,BJJ,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0
+Intermediate,1-2 hours,6000+,Offline,Bangalore,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Intermediate,3-5 hours,3000-6000,Offline,Delhi,Boxing,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+Beginner,3-5 hours,<1000,Online,Chennai,Wrestling,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,1-2 hours,6000+,Offline,Bangalore,Karate,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,10+ hours,<1000,Online,Bangalore,MMA,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1
+Beginner,3-5 hours,3000-6000,Hybrid,Chennai,Judo,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+Beginner,3-5 hours,<1000,Online,Chennai,Taekwondo,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0
+Advanced,10+ hours,3000-6000,Hybrid,Mumbai,Kung Fu,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Advanced,6-10 hours,3000-6000,Hybrid,Delhi,Kung Fu,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Beginner,1-2 hours,3000-6000,Hybrid,Chennai,Karate,0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,0,0
+Beginner,6-10 hours,1000-3000,Online,Bangalore,Wrestling,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0
+Beginner,6-10 hours,<1000,Hybrid,Mumbai,Karate,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,3-5 hours,1000-3000,Hybrid,Chennai,BJJ,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+Intermediate,10+ hours,1000-3000,Hybrid,Delhi,Boxing,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+Intermediate,10+ hours,6000+,Online,Delhi,Boxing,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1
+Beginner,1-2 hours,3000-6000,Online,Delhi,Karate,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+Intermediate,6-10 hours,<1000,Offline,Mumbai,Karate,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,3-5 hours,<1000,Offline,Mumbai,Judo,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,6000+,Offline,Mumbai,Kung Fu,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+Beginner,3-5 hours,3000-6000,Online,Mumbai,Muay Thai,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Delhi,Karate,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Intermediate,10+ hours,1000-3000,Hybrid,Mumbai,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Beginner,10+ hours,3000-6000,Offline,Mumbai,Boxing,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Beginner,6-10 hours,3000-6000,Hybrid,Delhi,Karate,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+Advanced,1-2 hours,3000-6000,Online,Mumbai,Kung Fu,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,1-2 hours,1000-3000,Offline,Bangalore,BJJ,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+Advanced,10+ hours,6000+,Offline,Delhi,Taekwondo,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Advanced,10+ hours,<1000,Offline,Delhi,Karate,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Intermediate,10+ hours,6000+,Online,Chennai,MMA,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Intermediate,1-2 hours,<1000,Hybrid,Chennai,MMA,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+Advanced,1-2 hours,1000-3000,Hybrid,Bangalore,Boxing,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Bangalore,BJJ,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Intermediate,10+ hours,6000+,Hybrid,Mumbai,MMA,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,3-5 hours,<1000,Offline,Delhi,Karate,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1,0
+Beginner,3-5 hours,3000-6000,Hybrid,Delhi,BJJ,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+Beginner,6-10 hours,6000+,Hybrid,Delhi,Boxing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Beginner,10+ hours,6000+,Hybrid,Mumbai,Kung Fu,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Intermediate,3-5 hours,1000-3000,Offline,Mumbai,Muay Thai,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0
+Advanced,6-10 hours,1000-3000,Offline,Bangalore,BJJ,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,6-10 hours,<1000,Hybrid,Delhi,Boxing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Advanced,1-2 hours,<1000,Online,Mumbai,BJJ,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+Advanced,6-10 hours,3000-6000,Offline,Delhi,Karate,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Intermediate,10+ hours,6000+,Offline,Delhi,Karate,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Advanced,10+ hours,1000-3000,Offline,Mumbai,MMA,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+Beginner,1-2 hours,<1000,Offline,Chennai,Taekwondo,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+Beginner,10+ hours,6000+,Offline,Bangalore,Taekwondo,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+Beginner,6-10 hours,<1000,Online,Bangalore,Taekwondo,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0
+Advanced,3-5 hours,3000-6000,Hybrid,Bangalore,MMA,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,3000-6000,Online,Chennai,Judo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,10+ hours,3000-6000,Offline,Bangalore,Boxing,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,3-5 hours,3000-6000,Offline,Chennai,Judo,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Advanced,6-10 hours,3000-6000,Hybrid,Chennai,Wrestling,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,1-2 hours,6000+,Hybrid,Bangalore,Judo,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+Advanced,10+ hours,1000-3000,Hybrid,Chennai,Judo,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1
+Advanced,10+ hours,3000-6000,Offline,Delhi,Karate,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+Advanced,1-2 hours,1000-3000,Hybrid,Delhi,Judo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0
+Intermediate,6-10 hours,3000-6000,Hybrid,Bangalore,Boxing,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+Intermediate,6-10 hours,3000-6000,Hybrid,Delhi,Taekwondo,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+Intermediate,10+ hours,6000+,Offline,Delhi,MMA,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0
+Beginner,10+ hours,1000-3000,Online,Bangalore,Kung Fu,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,1000-3000,Online,Mumbai,Karate,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1
+Intermediate,10+ hours,6000+,Offline,Delhi,MMA,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Offline,Delhi,Karate,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1
+Intermediate,6-10 hours,<1000,Offline,Bangalore,Karate,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,1-2 hours,3000-6000,Online,Chennai,MMA,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0
+Advanced,3-5 hours,1000-3000,Hybrid,Chennai,Wrestling,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0
+Advanced,10+ hours,3000-6000,Online,Mumbai,Karate,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0
+Intermediate,1-2 hours,3000-6000,Hybrid,Bangalore,Muay Thai,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beginner,6-10 hours,<1000,Hybrid,Bangalore,Boxing,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,3-5 hours,6000+,Hybrid,Bangalore,Karate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,10+ hours,3000-6000,Online,Mumbai,Muay Thai,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,10+ hours,<1000,Hybrid,Delhi,BJJ,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,3-5 hours,6000+,Offline,Mumbai,Karate,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Advanced,3-5 hours,<1000,Online,Chennai,Boxing,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0
+Advanced,10+ hours,<1000,Offline,Chennai,Boxing,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,1-2 hours,1000-3000,Hybrid,Bangalore,Judo,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+Beginner,1-2 hours,3000-6000,Offline,Chennai,Karate,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1
+Beginner,3-5 hours,<1000,Online,Chennai,Boxing,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+Beginner,1-2 hours,6000+,Hybrid,Mumbai,Boxing,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,3-5 hours,<1000,Online,Bangalore,Judo,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+Advanced,3-5 hours,6000+,Offline,Bangalore,BJJ,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Advanced,10+ hours,3000-6000,Hybrid,Chennai,Judo,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,6-10 hours,1000-3000,Offline,Mumbai,Taekwondo,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Mumbai,BJJ,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Intermediate,10+ hours,<1000,Online,Delhi,Boxing,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1
+Advanced,6-10 hours,<1000,Online,Delhi,Boxing,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,6-10 hours,3000-6000,Offline,Chennai,Wrestling,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,6000+,Offline,Delhi,Karate,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+Intermediate,10+ hours,3000-6000,Online,Delhi,MMA,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0
+Beginner,10+ hours,6000+,Offline,Delhi,MMA,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beginner,1-2 hours,<1000,Online,Mumbai,BJJ,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Chennai,MMA,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,10+ hours,<1000,Online,Bangalore,Boxing,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,3-5 hours,1000-3000,Hybrid,Bangalore,MMA,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,3-5 hours,1000-3000,Offline,Mumbai,Judo,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Advanced,10+ hours,<1000,Hybrid,Mumbai,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Beginner,3-5 hours,1000-3000,Hybrid,Chennai,Boxing,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+Beginner,1-2 hours,1000-3000,Hybrid,Delhi,Wrestling,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0
+Beginner,6-10 hours,6000+,Hybrid,Delhi,BJJ,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+Advanced,1-2 hours,3000-6000,Hybrid,Chennai,Karate,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Beginner,10+ hours,6000+,Online,Chennai,MMA,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,3-5 hours,6000+,Hybrid,Delhi,Taekwondo,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Intermediate,10+ hours,3000-6000,Offline,Mumbai,Taekwondo,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,1-2 hours,<1000,Offline,Mumbai,Boxing,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Delhi,Judo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+Intermediate,10+ hours,1000-3000,Online,Delhi,Wrestling,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Intermediate,6-10 hours,1000-3000,Hybrid,Chennai,MMA,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Intermediate,6-10 hours,6000+,Offline,Chennai,Boxing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Intermediate,6-10 hours,1000-3000,Offline,Bangalore,Karate,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+Advanced,10+ hours,3000-6000,Online,Delhi,Kung Fu,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Advanced,3-5 hours,6000+,Offline,Mumbai,Karate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,3-5 hours,6000+,Offline,Mumbai,MMA,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,6-10 hours,<1000,Online,Delhi,Boxing,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0
+Beginner,1-2 hours,<1000,Offline,Delhi,Judo,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0
+Intermediate,10+ hours,<1000,Offline,Chennai,BJJ,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0
+Beginner,3-5 hours,6000+,Offline,Chennai,Kung Fu,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+Intermediate,1-2 hours,<1000,Offline,Mumbai,Judo,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Advanced,6-10 hours,6000+,Offline,Delhi,Wrestling,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,3-5 hours,6000+,Hybrid,Chennai,Karate,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Beginner,3-5 hours,3000-6000,Offline,Delhi,Karate,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,1,0
+Beginner,10+ hours,<1000,Offline,Bangalore,Wrestling,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+Advanced,6-10 hours,<1000,Online,Bangalore,Muay Thai,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0
+Beginner,3-5 hours,6000+,Offline,Delhi,Wrestling,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Advanced,3-5 hours,3000-6000,Offline,Mumbai,Karate,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+Beginner,10+ hours,6000+,Hybrid,Chennai,Karate,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Beginner,6-10 hours,<1000,Offline,Delhi,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Beginner,6-10 hours,3000-6000,Hybrid,Mumbai,Karate,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0
+Advanced,6-10 hours,<1000,Offline,Bangalore,Judo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Beginner,10+ hours,1000-3000,Hybrid,Delhi,Taekwondo,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,3000-6000,Hybrid,Bangalore,Karate,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Advanced,1-2 hours,3000-6000,Hybrid,Delhi,Wrestling,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Beginner,10+ hours,1000-3000,Hybrid,Bangalore,Kung Fu,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,6000+,Offline,Bangalore,Taekwondo,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Advanced,10+ hours,1000-3000,Offline,Delhi,Karate,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+Intermediate,6-10 hours,<1000,Online,Mumbai,Wrestling,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1
+Beginner,10+ hours,1000-3000,Hybrid,Delhi,Boxing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Beginner,3-5 hours,<1000,Offline,Bangalore,Muay Thai,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Hybrid,Delhi,Judo,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Advanced,10+ hours,1000-3000,Offline,Mumbai,Judo,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0
+Intermediate,6-10 hours,3000-6000,Online,Chennai,Taekwondo,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,3-5 hours,1000-3000,Offline,Chennai,Muay Thai,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1
+Beginner,6-10 hours,6000+,Offline,Delhi,BJJ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,1000-3000,Hybrid,Delhi,Karate,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0
+Intermediate,10+ hours,<1000,Hybrid,Mumbai,Karate,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Intermediate,3-5 hours,6000+,Online,Mumbai,Boxing,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0
+Beginner,1-2 hours,6000+,Hybrid,Bangalore,Karate,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,1-2 hours,1000-3000,Online,Bangalore,Wrestling,0,1,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0
+Advanced,1-2 hours,6000+,Online,Chennai,Krav Maga,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,1
+Intermediate,3-5 hours,6000+,Offline,Bangalore,Muay Thai,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0
+Intermediate,6-10 hours,6000+,Offline,Mumbai,Boxing,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0
+Advanced,3-5 hours,3000-6000,Online,Bangalore,Krav Maga,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Advanced,3-5 hours,<1000,Offline,Bangalore,Karate,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Beginner,3-5 hours,6000+,Hybrid,Bangalore,MMA,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0
+Beginner,1-2 hours,6000+,Online,Chennai,Taekwondo,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Intermediate,3-5 hours,3000-6000,Hybrid,Bangalore,Boxing,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Beginner,3-5 hours,<1000,Offline,Mumbai,Kung Fu,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,6-10 hours,<1000,Online,Delhi,Kung Fu,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,3-5 hours,6000+,Hybrid,Bangalore,Karate,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0
+Advanced,10+ hours,<1000,Hybrid,Mumbai,Wrestling,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,6-10 hours,6000+,Hybrid,Bangalore,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Online,Delhi,Wrestling,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,10+ hours,3000-6000,Offline,Bangalore,Muay Thai,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0
+Beginner,3-5 hours,<1000,Hybrid,Delhi,MMA,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0
+Intermediate,10+ hours,6000+,Hybrid,Delhi,Krav Maga,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,1-2 hours,1000-3000,Online,Delhi,Karate,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,3-5 hours,6000+,Online,Mumbai,Karate,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,10+ hours,6000+,Offline,Mumbai,Wrestling,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,6-10 hours,3000-6000,Offline,Delhi,BJJ,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,10+ hours,<1000,Online,Bangalore,Muay Thai,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+Beginner,10+ hours,3000-6000,Offline,Chennai,Boxing,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,6-10 hours,1000-3000,Online,Bangalore,Krav Maga,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Mumbai,Kung Fu,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,6-10 hours,3000-6000,Hybrid,Mumbai,BJJ,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,<1000,Online,Delhi,Boxing,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1
+Beginner,6-10 hours,1000-3000,Offline,Mumbai,Muay Thai,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+Beginner,10+ hours,<1000,Offline,Bangalore,Taekwondo,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,3000-6000,Online,Delhi,Wrestling,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0
+Intermediate,10+ hours,<1000,Online,Bangalore,Judo,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0
+Advanced,6-10 hours,3000-6000,Online,Mumbai,Karate,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Intermediate,1-2 hours,3000-6000,Offline,Mumbai,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Beginner,10+ hours,6000+,Offline,Chennai,Boxing,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,<1000,Offline,Bangalore,Krav Maga,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,1-2 hours,3000-6000,Hybrid,Chennai,Muay Thai,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Intermediate,6-10 hours,1000-3000,Online,Chennai,Karate,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,10+ hours,6000+,Online,Mumbai,Boxing,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,1-2 hours,1000-3000,Online,Bangalore,Krav Maga,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0
+Intermediate,6-10 hours,<1000,Hybrid,Chennai,Kung Fu,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+Intermediate,10+ hours,6000+,Offline,Delhi,MMA,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Advanced,6-10 hours,6000+,Hybrid,Delhi,Krav Maga,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+Intermediate,1-2 hours,6000+,Hybrid,Mumbai,Boxing,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1
+Advanced,3-5 hours,1000-3000,Online,Mumbai,Wrestling,1,1,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+Beginner,1-2 hours,<1000,Offline,Chennai,Boxing,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+Intermediate,1-2 hours,6000+,Online,Delhi,Wrestling,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Beginner,10+ hours,6000+,Online,Delhi,MMA,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+Intermediate,6-10 hours,1000-3000,Online,Chennai,Boxing,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+Intermediate,10+ hours,<1000,Online,Delhi,MMA,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Advanced,1-2 hours,1000-3000,Offline,Delhi,MMA,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0
+Advanced,1-2 hours,3000-6000,Hybrid,Chennai,Muay Thai,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,3-5 hours,<1000,Offline,Mumbai,Boxing,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Advanced,10+ hours,<1000,Hybrid,Mumbai,Kung Fu,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0
+Intermediate,6-10 hours,3000-6000,Online,Bangalore,Judo,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,1-2 hours,1000-3000,Hybrid,Delhi,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,1-2 hours,<1000,Offline,Delhi,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Advanced,6-10 hours,6000+,Offline,Bangalore,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Intermediate,1-2 hours,<1000,Hybrid,Bangalore,Boxing,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Intermediate,6-10 hours,3000-6000,Offline,Bangalore,Taekwondo,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Beginner,1-2 hours,6000+,Offline,Bangalore,Taekwondo,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,1,1,0,0
+Intermediate,10+ hours,3000-6000,Hybrid,Bangalore,Karate,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Advanced,6-10 hours,1000-3000,Hybrid,Bangalore,BJJ,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beginner,6-10 hours,3000-6000,Offline,Mumbai,Wrestling,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beginner,10+ hours,3000-6000,Offline,Mumbai,Boxing,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,6-10 hours,1000-3000,Online,Chennai,Karate,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Advanced,6-10 hours,1000-3000,Online,Delhi,Karate,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+Beginner,10+ hours,6000+,Offline,Mumbai,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Advanced,3-5 hours,<1000,Hybrid,Mumbai,Kung Fu,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,6-10 hours,1000-3000,Online,Mumbai,MMA,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,3-5 hours,3000-6000,Offline,Bangalore,Wrestling,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Beginner,3-5 hours,<1000,Hybrid,Delhi,BJJ,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,1-2 hours,<1000,Online,Mumbai,Karate,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,1,0
+Intermediate,3-5 hours,1000-3000,Hybrid,Mumbai,Karate,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Intermediate,1-2 hours,3000-6000,Online,Mumbai,Wrestling,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1
+Beginner,3-5 hours,<1000,Hybrid,Chennai,Muay Thai,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+Advanced,1-2 hours,<1000,Hybrid,Chennai,Judo,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,6-10 hours,6000+,Online,Mumbai,Muay Thai,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1
+Beginner,1-2 hours,<1000,Online,Delhi,Boxing,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Intermediate,3-5 hours,<1000,Offline,Chennai,Wrestling,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Online,Chennai,Boxing,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,1,0
+Intermediate,3-5 hours,6000+,Offline,Mumbai,Karate,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Mumbai,Karate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Advanced,1-2 hours,<1000,Hybrid,Delhi,Taekwondo,0,0,1,0,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+Intermediate,6-10 hours,3000-6000,Online,Delhi,Taekwondo,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Intermediate,10+ hours,<1000,Offline,Chennai,Karate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Beginner,1-2 hours,<1000,Hybrid,Bangalore,Judo,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Advanced,10+ hours,3000-6000,Hybrid,Chennai,Wrestling,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,3000-6000,Offline,Bangalore,Taekwondo,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,3-5 hours,6000+,Online,Bangalore,Judo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Beginner,3-5 hours,3000-6000,Online,Chennai,Kung Fu,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Advanced,1-2 hours,<1000,Hybrid,Chennai,Boxing,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+Intermediate,6-10 hours,6000+,Offline,Delhi,Krav Maga,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,10+ hours,3000-6000,Hybrid,Bangalore,Boxing,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,6-10 hours,1000-3000,Hybrid,Delhi,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,10+ hours,3000-6000,Offline,Mumbai,Judo,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+Beginner,1-2 hours,1000-3000,Offline,Delhi,Boxing,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,1-2 hours,3000-6000,Offline,Mumbai,Boxing,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0
+Advanced,1-2 hours,6000+,Offline,Chennai,Muay Thai,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+Intermediate,3-5 hours,3000-6000,Hybrid,Delhi,Judo,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Beginner,1-2 hours,6000+,Online,Chennai,Karate,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+Advanced,10+ hours,1000-3000,Online,Delhi,MMA,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0
+Advanced,6-10 hours,<1000,Hybrid,Bangalore,Judo,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1
+Beginner,10+ hours,6000+,Online,Bangalore,Muay Thai,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,10+ hours,<1000,Online,Bangalore,Krav Maga,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Beginner,10+ hours,3000-6000,Hybrid,Bangalore,Krav Maga,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+Advanced,6-10 hours,1000-3000,Offline,Mumbai,Krav Maga,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Beginner,10+ hours,<1000,Online,Chennai,Taekwondo,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Beginner,1-2 hours,<1000,Online,Bangalore,Krav Maga,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0
+Advanced,10+ hours,6000+,Offline,Mumbai,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Advanced,1-2 hours,<1000,Offline,Mumbai,Karate,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,10+ hours,<1000,Offline,Delhi,Judo,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Beginner,6-10 hours,3000-6000,Online,Delhi,Muay Thai,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,0
+Beginner,1-2 hours,3000-6000,Online,Bangalore,Kung Fu,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+Intermediate,6-10 hours,1000-3000,Online,Delhi,Krav Maga,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,3000-6000,Online,Delhi,Boxing,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+Intermediate,1-2 hours,1000-3000,Offline,Chennai,Wrestling,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1
+Intermediate,1-2 hours,3000-6000,Online,Delhi,Taekwondo,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0
+Intermediate,6-10 hours,3000-6000,Offline,Mumbai,Kung Fu,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Advanced,1-2 hours,<1000,Online,Mumbai,Boxing,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1
+Advanced,10+ hours,1000-3000,Offline,Chennai,Krav Maga,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,1-2 hours,1000-3000,Hybrid,Delhi,Boxing,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1
+Beginner,10+ hours,3000-6000,Online,Delhi,Wrestling,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+Beginner,3-5 hours,3000-6000,Offline,Chennai,Karate,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+Beginner,6-10 hours,1000-3000,Offline,Chennai,Kung Fu,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,10+ hours,3000-6000,Offline,Chennai,Wrestling,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+Advanced,3-5 hours,1000-3000,Online,Bangalore,Kung Fu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,3-5 hours,6000+,Offline,Mumbai,Taekwondo,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Advanced,1-2 hours,1000-3000,Online,Delhi,Boxing,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+Advanced,1-2 hours,1000-3000,Offline,Delhi,Karate,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0
+Advanced,10+ hours,6000+,Online,Delhi,Karate,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Advanced,3-5 hours,3000-6000,Offline,Mumbai,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Intermediate,10+ hours,1000-3000,Hybrid,Mumbai,BJJ,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Intermediate,3-5 hours,<1000,Hybrid,Chennai,Judo,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Intermediate,10+ hours,6000+,Offline,Mumbai,Wrestling,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+Beginner,10+ hours,3000-6000,Online,Mumbai,Boxing,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Advanced,6-10 hours,6000+,Offline,Mumbai,Taekwondo,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Intermediate,6-10 hours,6000+,Online,Chennai,Boxing,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0
+Advanced,6-10 hours,6000+,Hybrid,Delhi,BJJ,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0
+Advanced,10+ hours,3000-6000,Hybrid,Mumbai,Muay Thai,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0
+Intermediate,1-2 hours,3000-6000,Online,Bangalore,Krav Maga,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Advanced,1-2 hours,1000-3000,Hybrid,Chennai,Judo,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,1000-3000,Hybrid,Mumbai,Boxing,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Beginner,10+ hours,6000+,Hybrid,Delhi,Boxing,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0
+Beginner,3-5 hours,1000-3000,Offline,Chennai,Boxing,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0
+Beginner,6-10 hours,3000-6000,Online,Bangalore,Boxing,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+Advanced,10+ hours,6000+,Hybrid,Mumbai,Boxing,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,3-5 hours,3000-6000,Offline,Bangalore,Taekwondo,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+Advanced,6-10 hours,<1000,Hybrid,Delhi,MMA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Intermediate,10+ hours,1000-3000,Online,Delhi,MMA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Beginner,3-5 hours,<1000,Online,Mumbai,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,6-10 hours,3000-6000,Offline,Bangalore,Karate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,10+ hours,6000+,Hybrid,Mumbai,Boxing,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,0
+Intermediate,6-10 hours,<1000,Online,Delhi,Karate,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Advanced,6-10 hours,1000-3000,Offline,Chennai,Karate,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+Intermediate,6-10 hours,3000-6000,Offline,Bangalore,Karate,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Beginner,10+ hours,6000+,Online,Delhi,Boxing,0,1,0,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+Intermediate,6-10 hours,6000+,Offline,Bangalore,Muay Thai,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Intermediate,6-10 hours,6000+,Hybrid,Mumbai,BJJ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,6000+,Online,Bangalore,Boxing,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+Beginner,10+ hours,6000+,Online,Chennai,Boxing,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Intermediate,10+ hours,<1000,Online,Delhi,Karate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Beginner,10+ hours,3000-6000,Offline,Bangalore,Judo,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0
+Advanced,3-5 hours,1000-3000,Hybrid,Bangalore,Krav Maga,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,1-2 hours,6000+,Hybrid,Mumbai,Muay Thai,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Intermediate,10+ hours,3000-6000,Online,Delhi,MMA,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0
+Intermediate,6-10 hours,3000-6000,Offline,Chennai,Boxing,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Advanced,10+ hours,3000-6000,Offline,Chennai,Judo,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Beginner,6-10 hours,1000-3000,Offline,Mumbai,Boxing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Advanced,1-2 hours,6000+,Offline,Bangalore,Kung Fu,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Intermediate,3-5 hours,6000+,Hybrid,Chennai,Muay Thai,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Beginner,1-2 hours,6000+,Hybrid,Delhi,Boxing,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+Advanced,1-2 hours,1000-3000,Online,Bangalore,MMA,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Advanced,6-10 hours,<1000,Online,Mumbai,Muay Thai,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Beginner,10+ hours,<1000,Online,Mumbai,Muay Thai,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beginner,10+ hours,3000-6000,Offline,Mumbai,Kung Fu,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+Beginner,10+ hours,1000-3000,Online,Bangalore,Karate,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+Beginner,1-2 hours,1000-3000,Offline,Mumbai,Boxing,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+Intermediate,1-2 hours,3000-6000,Offline,Bangalore,Judo,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,10+ hours,3000-6000,Online,Delhi,Muay Thai,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,6000+,Hybrid,Delhi,Boxing,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Beginner,6-10 hours,<1000,Online,Bangalore,Boxing,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Advanced,6-10 hours,6000+,Hybrid,Delhi,Taekwondo,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Advanced,10+ hours,3000-6000,Hybrid,Chennai,Judo,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Advanced,10+ hours,3000-6000,Hybrid,Delhi,Kung Fu,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Advanced,6-10 hours,6000+,Online,Chennai,Judo,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Beginner,1-2 hours,6000+,Online,Chennai,Boxing,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+Beginner,1-2 hours,<1000,Online,Delhi,Krav Maga,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0
+Beginner,1-2 hours,6000+,Hybrid,Chennai,Karate,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Beginner,10+ hours,<1000,Offline,Mumbai,Taekwondo,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Advanced,1-2 hours,3000-6000,Online,Delhi,Krav Maga,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0
+Beginner,3-5 hours,1000-3000,Hybrid,Chennai,Judo,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Beginner,3-5 hours,6000+,Hybrid,Bangalore,Judo,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+Advanced,10+ hours,6000+,Hybrid,Bangalore,Boxing,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+Beginner,10+ hours,6000+,Online,Mumbai,MMA,0,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1
+Advanced,1-2 hours,3000-6000,Online,Delhi,Wrestling,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Beginner,10+ hours,3000-6000,Online,Delhi,Boxing,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intermediate,10+ hours,1000-3000,Hybrid,Mumbai,Karate,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0
+Intermediate,6-10 hours,<1000,Hybrid,Chennai,Muay Thai,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0
+Beginner,3-5 hours,<1000,Hybrid,Chennai,Muay Thai,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0
+Intermediate,1-2 hours,6000+,Offline,Mumbai,Boxing,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1
+Intermediate,1-2 hours,6000+,Hybrid,Mumbai,BJJ,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Intermediate,3-5 hours,1000-3000,Offline,Delhi,Karate,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0
+Intermediate,6-10 hours,6000+,Offline,Mumbai,Muay Thai,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,6-10 hours,<1000,Offline,Delhi,MMA,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+Advanced,3-5 hours,1000-3000,Hybrid,Bangalore,Judo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+Advanced,3-5 hours,3000-6000,Online,Bangalore,Krav Maga,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0
+Intermediate,3-5 hours,1000-3000,Hybrid,Bangalore,Karate,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Advanced,1-2 hours,3000-6000,Online,Bangalore,BJJ,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,1,0
+Intermediate,6-10 hours,<1000,Online,Bangalore,Judo,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0
+Intermediate,1-2 hours,1000-3000,Online,Chennai,Boxing,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,1
+Advanced,6-10 hours,6000+,Offline,Delhi,Karate,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Intermediate,1-2 hours,3000-6000,Offline,Mumbai,MMA,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Intermediate,3-5 hours,<1000,Hybrid,Chennai,BJJ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Intermediate,6-10 hours,3000-6000,Offline,Delhi,Krav Maga,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,6-10 hours,1000-3000,Offline,Delhi,Boxing,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+Intermediate,3-5 hours,<1000,Offline,Chennai,Wrestling,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0
+Intermediate,3-5 hours,1000-3000,Online,Bangalore,Boxing,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+Advanced,10+ hours,1000-3000,Hybrid,Chennai,MMA,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+Beginner,3-5 hours,1000-3000,Online,Chennai,BJJ,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,3-5 hours,6000+,Hybrid,Chennai,Karate,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Intermediate,10+ hours,3000-6000,Offline,Mumbai,Krav Maga,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+Intermediate,10+ hours,<1000,Online,Bangalore,Karate,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0
+Intermediate,6-10 hours,<1000,Hybrid,Delhi,Boxing,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Advanced,3-5 hours,6000+,Offline,Bangalore,Wrestling,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Beginner,6-10 hours,3000-6000,Hybrid,Delhi,Krav Maga,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+Beginner,10+ hours,1000-3000,Offline,Chennai,Krav Maga,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0
+Beginner,3-5 hours,<1000,Offline,Bangalore,MMA,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Advanced,3-5 hours,<1000,Hybrid,Bangalore,BJJ,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Intermediate,3-5 hours,1000-3000,Hybrid,Chennai,Karate,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Intermediate,3-5 hours,<1000,Online,Delhi,Taekwondo,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Advanced,6-10 hours,<1000,Online,Mumbai,BJJ,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Beginner,6-10 hours,<1000,Online,Bangalore,MMA,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1
